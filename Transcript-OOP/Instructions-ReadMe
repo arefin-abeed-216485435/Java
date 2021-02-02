@@ -1,1 +1,5 @@
+ProblemStatement.pdf contains the problem that I solved by using object oriented programming. 
+Transcript.zip contains the solution class to the Java problem named same as the zip file. 
+There is an actual correct input file, named Input.txt here in this archieve file and another file named wrongInput.txt, which user can change to test the code.
+The code throws customised exception for different situations. All the steps are explained with detail comments.
 
